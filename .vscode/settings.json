@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/home/saf369/Projects/pytorch/venv/bin/python",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.suggestSelection": "first",
+    "python.analysis.indexing": true,
+    "python.analysis.addImport.exactMatchOnly": true
+}
